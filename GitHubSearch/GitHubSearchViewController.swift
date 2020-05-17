@@ -8,8 +8,8 @@
 
 import UIKit
 import ReactorKit
-import RxSwift
 import RxCocoa
+import RxSwift
 
 class GitHubSearchViewController: UIViewController, View {
     var disposeBag = DisposeBag()
